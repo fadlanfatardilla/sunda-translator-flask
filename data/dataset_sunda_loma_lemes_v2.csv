@@ -1,0 +1,301 @@
+id,sumber_loma,target_lemes_batur,sapaan,tipe_kalimat,campuran_sorangan,split
+1,Bapa geus dahar?,Bapa parantos tuang?,Bapa,pertanyaan,tidak,train
+2,Ibu arék indit ka mana?,Ibu badé angkat ka mana?,Ibu,pertanyaan,tidak,train
+3,Akang balik jam sabaraha?,Akang wangsul jam sabaraha?,Akang,pertanyaan,tidak,train
+4,Bapa keur gawé di kantor?,Bapa nuju damel di kantor?,Bapa,pertanyaan,tidak,train
+5,Ibu geus sare?,Ibu parantos kulem?,Ibu,pertanyaan,tidak,train
+6,Teteh arék meuli naon?,Teteh badé mésér naon?,Teteh,pertanyaan,tidak,train
+7,Aki geus datang ti kampung?,Aki parantos sumping ti kampung?,Aki,pertanyaan,tidak,test
+8,Nini hayang dahar naon?,Nini kersa tuang naon?,Nini,pertanyaan,tidak,train
+9,Pa Guru geus nyaho tempatna?,Pa Guru parantos terang tempatna?,Pa Guru,pertanyaan,tidak,train
+10,Bapa keur ngomong jeung saha?,Bapa nuju nyarios sareng saha?,Bapa,pertanyaan,tidak,train
+11,Ibu geus maca buku ieu?,Ibu parantos maos buku ieu?,Ibu,pertanyaan,tidak,train
+12,Akang keur nulis surat?,Akang nuju nyerat serat?,Akang,pertanyaan,tidak,val
+13,Teteh geus mandi?,Teteh parantos siram?,Teteh,pertanyaan,tidak,train
+14,Aki arék diuk di mana?,Aki badé linggih di mana?,Aki,pertanyaan,tidak,train
+15,Bapa boga motor anyar?,Bapa gaduh motor énggal?,Bapa,pertanyaan,tidak,train
+16,Ibu geus nempo budak éta?,Ibu parantos ningali murangkalih éta?,Ibu,pertanyaan,tidak,train
+17,Bapa teu hayang dahar?,Bapa teu kersa tuang?,Bapa,pertanyaan,tidak,test
+18,Ibu can balik?,Ibu teu acan wangsul?,Ibu,pertanyaan,tidak,train
+19,Akang geus nyieun tugas?,Akang parantos ngadamel tugas?,Akang,pertanyaan,tidak,train
+20,Teteh arék ngirim paket ka mana?,Teteh badé ngintun paket ka mana?,Teteh,pertanyaan,tidak,train
+21,Bapa arék nginum kopi atawa téh?,Bapa badé ngunjuk kopi atanapi téh?,Bapa,pertanyaan,tidak,train
+22,Nini geus hudang?,Nini parantos gugah?,Nini,pertanyaan,tidak,val
+23,Aki keur maké iket?,Aki nuju ngagem iket?,Aki,pertanyaan,tidak,train
+24,Ibu nyaho imah Pa Lurah?,Ibu terang bumi Pa Lurah?,Ibu,pertanyaan,tidak,train
+25,Bapa sok indit ka masjid isuk-isuk?,Bapa sok angkat ka masjid énjing-énjing?,Bapa,pertanyaan,tidak,train
+26,Akang kamari datang jam sabaraha?,Akang kamari sumping jam sabaraha?,Akang,pertanyaan,tidak,train
+27,"Lamun Bapa hayang, kuring arék nganteurkeun.","Upami Bapa kersa, abdi badé nganteurkeun.",Bapa,pernyataan,ya,test
+28,Bapa geus nyaho warta éta?,Bapa parantos terang warta éta?,Bapa,pertanyaan,tidak,train
+29,Ibu geus ngadéngé kabar éta?,Ibu parantos miarsa kabar éta?,Ibu,pertanyaan,tidak,train
+30,Akang mah mimiti gawé iraha?,Akang mah mimiti damel iraha?,Akang,pertanyaan,tidak,train
+31,Teteh geus ngarti?,Teteh parantos ngartos?,Teteh,pertanyaan,tidak,train
+32,Pa Guru keur diuk di kelas.,Pa Guru nuju linggih di kelas.,Pa Guru,pernyataan,tidak,val
+33,Bapa keur sakit?,Bapa nuju gerah?,Bapa,pertanyaan,tidak,train
+34,Ibu geus cageur?,Ibu parantos damang?,Ibu,pertanyaan,tidak,train
+35,Anak Bapa geus sakola?,Putra Bapa parantos sakola?,Bapa,pertanyaan,tidak,train
+36,Pamajikan Bapa keur di imah?,Garwa Bapa nuju di bumi?,Bapa,pertanyaan,tidak,train
+37,Bapa mah dahar téh sok saeutik.,Bapa mah tuang téh sok sakedik.,Bapa,pernyataan,tidak,test
+38,Ibu hayang dahar rujak?,Ibu kersa tuang rujak?,Ibu,pertanyaan,tidak,train
+39,Teteh arék nganjang ka imah Nini iraha?,Teteh badé nganjang ka bumi Nini iraha?,Teteh,pertanyaan,tidak,train
+40,Bapa geus nempo kuring ti tadi?,Bapa parantos ningali abdi ti tadi?,Bapa,pertanyaan,ya,train
+41,Ibu mawa naon ti pasar?,Ibu nyandak naon ti pasar?,Ibu,pertanyaan,tidak,train
+42,Bapa kudu dahar heula.,Bapa kedah tuang heula.,Bapa,perintah,tidak,val
+43,Ibu ulah indit peuting teuing.,Ibu entong angkat wengi teuing.,Ibu,larangan,tidak,train
+44,"Aki mah geus kolot, kudu sare awal.","Aki mah parantos sepuh, kedah kulem awal.",Aki,pernyataan,tidak,train
+45,Nini ngomong yén ayeuna hujan.,Nini nyarios yén ayeuna hujan.,Nini,pernyataan,tidak,train
+46,Bapa ngomong naon ka Akang?,Bapa nyarios naon ka Akang?,Bapa,pertanyaan,tidak,train
+47,"Teteh bageur pisan, sok méré kuring kadaharan.","Teteh saé pisan, sok maparin abdi kadaharan.",Teteh,pernyataan,ya,test
+48,"Kuring hayang nanya, Bapa arék ka mana?","Abdi hoyong naros, Bapa badé ka mana?",Bapa,pertanyaan,ya,train
+49,"Kuring geus dahar, Ibu arék dahar naon?","Abdi parantos neda, Ibu badé tuang naon?",Ibu,pertanyaan,ya,train
+50,"Kuring arék balik heula, Bapa kumaha?","Abdi badé uih heula, Bapa kumaha?",Bapa,pertanyaan,ya,val
+51,Bapa geus bisa nyetir mobil?,Bapa parantos tiasa nyetir mobil?,Bapa,pertanyaan,tidak,train
+52,Ibu karék datang ti pasar?,Ibu nembé sumping ti pasar?,Ibu,pertanyaan,tidak,val
+53,Akang ngadagoan saha di dieu?,Akang ngantosan saha di dieu?,Akang,pertanyaan,tidak,train
+54,Teteh keur néangan naon?,Teteh nuju milari naon?,Teteh,pertanyaan,tidak,train
+55,Aki geus lila gawé di sawah?,Aki parantos lami damel di sawah?,Aki,pertanyaan,tidak,test
+56,Nini arék ngadagoan Bapa di imah.,Nini badé ngantosan Bapa di bumi.,Nini,pernyataan,tidak,train
+57,Bu Guru arék ngajar jam sabaraha?,Bu Guru badé ngawulang jam sabaraha?,Bu Guru,pertanyaan,tidak,train
+58,Pa Lurah keur ngomong jeung Bapa di kantor.,Pa Lurah nuju nyarios sareng Bapa di kantor.,Pa Lurah,pernyataan,tidak,train
+59,Bapa teu bisa datang isukan?,Bapa teu tiasa sumping énjing?,Bapa,pertanyaan,tidak,train
+60,Ibu bisa ngabantuan kuring?,Ibu tiasa ngabantosan abdi?,Ibu,pertanyaan,ya,train
+61,Akang geus nyaho yén Teteh arék datang?,Akang parantos terang yén Teteh badé sumping?,Akang,pertanyaan,tidak,train
+62,Teteh keur maca surat ti Ibu.,Teteh nuju maos serat ti Ibu.,Teteh,pernyataan,tidak,val
+63,Aki hayang nginum cai tiis?,Aki kersa ngunjuk cai tiis?,Aki,pertanyaan,tidak,train
+64,Nini geus dahar nu mana?,Nini parantos tuang nu mana?,Nini,pertanyaan,tidak,train
+65,"Bapa kudu istirahat heula, ulah gawé teuing.","Bapa kedah istirahat heula, entong damel teuing.",Bapa,perintah,tidak,test
+66,Ibu ulah nginum kopi peuting-peuting.,Ibu entong ngunjuk kopi wengi-wengi.,Ibu,larangan,tidak,train
+67,Akang ulah poho mawa konci imah.,Akang entong hilap nyandak konci bumi.,Akang,larangan,tidak,train
+68,Teteh kudu nyaho jalan ka imah Aki.,Teteh kedah terang jalan ka bumi Aki.,Teteh,pernyataan,tidak,train
+69,Kuring geus nempo Bapa di pasar tadi isuk.,Abdi parantos ningali Bapa di pasar tadi énjing.,Bapa,pernyataan,ya,train
+70,Kuring teu nyaho Ibu arék indit ka mana.,Abdi teu terang Ibu badé angkat ka mana.,Ibu,pernyataan,ya,train
+71,"Kuring arék nanya, Akang geus dahar?","Abdi badé naros, Akang parantos tuang?",Akang,pertanyaan,ya,val
+72,"Kuring kudu balik ayeuna, Teteh arék diuk heula?","Abdi kedah uih ayeuna, Teteh badé linggih heula?",Teteh,pertanyaan,ya,train
+73,"Kuring geus meuli buku, Bapa hayang maca?","Abdi parantos mésér buku, Bapa kersa maos?",Bapa,pertanyaan,ya,test
+74,Aki mah sok gawé di kebon unggal isuk.,Aki mah sok damel di kebon unggal énjing.,Aki,pernyataan,tidak,train
+75,"Nini keur sare kénéh, ulah diganggu.","Nini nuju kulem kénéh, entong diganggu.",Nini,larangan,tidak,train
+76,Bapa keur maca koran di imah.,Bapa nuju maos koran di bumi.,Bapa,pernyataan,tidak,train
+77,Ibu geus meuli sayuran di pasar.,Ibu parantos mésér sayuran di pasar.,Ibu,pernyataan,tidak,train
+78,Teteh geus ngirim surat ka kuring?,Teteh parantos ngintun serat ka abdi?,Teteh,pertanyaan,ya,train
+79,Akang arék nulis naon?,Akang badé nyerat naon?,Akang,pertanyaan,tidak,train
+80,Pa Guru geus nempo nilai kuring?,Pa Guru parantos ningali nilai abdi?,Pa Guru,pertanyaan,ya,train
+81,Bu Guru hayang nanya naon ka kuring?,Bu Guru kersa naros naon ka abdi?,Bu Guru,pertanyaan,ya,train
+82,Ibu teu hayang nginum téh?,Ibu teu kersa ngunjuk téh?,Ibu,pertanyaan,tidak,val
+83,Bapa geus ngabéjaan Ibu?,Bapa parantos ngawartosan Ibu?,Bapa,pertanyaan,tidak,train
+84,Aki geus ngabéjaan Nini yén Akang datang?,Aki parantos ngawartosan Nini yén Akang sumping?,Aki,pertanyaan,tidak,train
+85,Teteh geus nyieun kadaharan keur Ibu?,Teteh parantos ngadamel kadaharan kanggo Ibu?,Teteh,pertanyaan,tidak,test
+86,Nini geus meuli kadaharan keur Aki?,Nini parantos mésér kadaharan kanggo Aki?,Nini,pertanyaan,tidak,train
+87,Akang kudu nepi ka imah saméméh peuting.,Akang kedah dugi ka bumi saméméh wengi.,Akang,pernyataan,tidak,train
+88,Bapa arék indit jeung saha isukan?,Bapa badé angkat sareng saha énjing?,Bapa,pertanyaan,tidak,train
+89,Ibu keur ngadagoan saha di payuneun imah?,Ibu nuju ngantosan saha di payun bumi?,Ibu,pertanyaan,tidak,train
+90,Teteh geus lila ngadagoan Akang?,Teteh parantos lami ngantosan Akang?,Teteh,pertanyaan,tidak,train
+91,Aki teu bisa maca tulisan leutik.,Aki teu tiasa maos tulisan alit.,Aki,pernyataan,tidak,train
+92,"Nini geus kolot, kudu dibantuan.","Nini parantos sepuh, kedah dibantosan.",Nini,pernyataan,tidak,val
+93,Bapa keur néangan konci motor.,Bapa nuju milari konci motor.,Bapa,pernyataan,tidak,train
+94,Ibu bisa nyetir motor?,Ibu tiasa nyetir motor?,Ibu,pertanyaan,tidak,train
+95,Akang sok balik ti kantor jam lima.,Akang sok wangsul ti kantor jam lima.,Akang,pernyataan,tidak,test
+96,Pa Lurah arék datang ka imah kuring isukan.,Pa Lurah badé sumping ka bumi abdi énjing.,Pa Lurah,pernyataan,ya,train
+97,"Kuring teu bisa datang, Bapa kumaha?","Abdi teu tiasa dugi, Bapa kumaha?",Bapa,pertanyaan,ya,train
+98,"Kuring geus nepi ka kantor, Ibu keur naon?","Abdi parantos dugi ka kantor, Ibu nuju naon?",Ibu,pertanyaan,ya,train
+99,"Kuring mah dahar téh sok saeutik, Nini kumaha?","Abdi mah neda téh sok sakedik, Nini kumaha?",Nini,pertanyaan,ya,train
+100,"Kuring hayang nulis, Bapa bisa maca?","Abdi hoyong nyerat, Bapa tiasa maos?",Bapa,pertanyaan,ya,train
+101,Sirah Bapa keur sakit?,Mastaka Bapa nuju gering?,Bapa,pertanyaan,tidak,train
+102,Suku Aki geus cageur?,Sampéan Aki parantos damang?,Aki,pertanyaan,tidak,train
+103,Leungeun Nini keur sakit?,Panangan Nini nuju gering?,Nini,pertanyaan,tidak,val
+104,Panon Ibu geus cageur?,Soca Ibu parantos damang?,Ibu,pertanyaan,tidak,train
+105,Huntu Bapa kudu diubaran heula.,Waja Bapa kedah diubaran heula.,Bapa,perintah,tidak,test
+106,Baju Akang geus garing?,Raksukan Akang parantos garing?,Akang,pertanyaan,tidak,train
+107,Teteh geus meuli baju anyar?,Teteh parantos mésér raksukan énggal?,Teteh,pertanyaan,tidak,train
+108,Ibu geus nempo baju anyar Teteh?,Ibu parantos ningali raksukan énggal Teteh?,Ibu,pertanyaan,tidak,train
+109,Bapa boga duit keur meuli buku?,Bapa gaduh artos kanggo mésér buku?,Bapa,pertanyaan,tidak,train
+110,Ibu geus méré duit ka Akang?,Ibu parantos maparin artos ka Akang?,Ibu,pertanyaan,tidak,test
+111,Imah Aki gedé pisan.,Bumi Aki ageung pisan.,Aki,pernyataan,tidak,train
+112,Imah Pa Lurah jauh ti dieu?,Bumi Pa Lurah tebih ti dieu?,Pa Lurah,pertanyaan,tidak,train
+113,Kantor Bapa deukeut ti imah?,Kantor Bapa caket ti bumi?,Bapa,pertanyaan,tidak,val
+114,Tugas ti Pa Guru loba pisan.,Tugas ti Pa Guru seueur pisan.,Pa Guru,pernyataan,tidak,train
+115,Motor Akang anyar?,Motor Akang énggal?,Akang,pertanyaan,tidak,test
+116,Bapa geus meuli mobil anyar?,Bapa parantos mésér mobil énggal?,Bapa,pertanyaan,tidak,train
+117,Kadaharan Ibu ngeunah pisan.,Kadaharan Ibu raos pisan.,Ibu,pernyataan,tidak,train
+118,Kopi buatan Bapa ngeunah pisan.,Kopi damelan Bapa raos pisan.,Bapa,pernyataan,tidak,train
+119,Tulisan Akang alus pisan.,Tulisan Akang saé pisan.,Akang,pernyataan,tidak,train
+120,Masakan Nini alus pisan.,Masakan Nini saé pisan.,Nini,pernyataan,tidak,test
+121,Teteh bener pisan.,Teteh leres pisan.,Teteh,pernyataan,tidak,train
+122,Akang salah jalan?,Akang lepat jalan?,Akang,pertanyaan,tidak,train
+123,Ibu salah ngadéngé warta éta.,Ibu lepat miarsa warta éta.,Ibu,pernyataan,tidak,val
+124,Bapa nyarita bener.,Bapa nyarios leres.,Bapa,pernyataan,tidak,train
+125,"Hawa dieu panas, Bapa hayang nginum cai tiis?","Hawa dieu panas, Bapa kersa ngunjuk cai tiis?",Bapa,pertanyaan,tidak,test
+126,"Ibu hayang indit, tapi geus peuting.","Ibu kersa angkat, nanging parantos wengi.",Ibu,pernyataan,tidak,train
+127,Akang teu datang sabab keur sakit.,Akang teu sumping margi nuju gering.,Akang,pernyataan,tidak,train
+128,Teteh balik sanggeus Ibu datang.,Teteh wangsul saparantos Ibu sumping.,Teteh,pernyataan,tidak,train
+129,"Bapa dahar heula, tuluy indit gawé.","Bapa tuang heula, teras angkat damel.",Bapa,pernyataan,tidak,train
+130,Aki mah milu ka pasar.,Aki mah ngiring ka pasar.,Aki,pernyataan,tidak,test
+131,Nini milu indit jeung Aki?,Nini ngiring angkat sareng Aki?,Nini,pertanyaan,tidak,train
+132,Bapa arék milu ka lembur?,Bapa badé ngiring ka lembur?,Bapa,pertanyaan,tidak,train
+133,"Ibu lain guru, Ibu téh dokter.","Ibu sanés guru, Ibu téh dokter.",Ibu,pernyataan,tidak,val
+134,Éta lain imah Aki.,Éta sanés bumi Aki.,Aki,pernyataan,tidak,train
+135,Poé ieu Bapa gawé?,Dinten ieu Bapa damel?,Bapa,pertanyaan,tidak,test
+136,Poé Minggu Ibu libur?,Dinten Minggu Ibu libur?,Ibu,pertanyaan,tidak,train
+137,Poé naon Akang arék datang?,Dinten naon Akang badé sumping?,Akang,pertanyaan,tidak,train
+138,"Ayeuna poé Senén, Bapa kudu gawé.","Ayeuna dinten Senén, Bapa kedah damel.",Bapa,perintah,tidak,train
+139,Isukan Ibu arék indit ka Bandung.,Énjing Ibu badé angkat ka Bandung.,Ibu,pernyataan,tidak,train
+140,Tadi isuk Bapa geus dahar?,Tadi énjing Bapa parantos tuang?,Bapa,pertanyaan,tidak,test
+141,Peuting ieu Aki arék sare di dieu.,Wengi ieu Aki badé kulem di dieu.,Aki,pernyataan,tidak,train
+142,Pa Guru geus lila ngajar di dieu?,Pa Guru parantos lami ngawulang di dieu?,Pa Guru,pertanyaan,tidak,train
+143,Bu Guru keur néangan buku ti tadi.,Bu Guru nuju milari buku ti tadi.,Bu Guru,pernyataan,tidak,val
+144,Mamang arék indit jeung saha?,Mamang badé angkat sareng saha?,Mamang,pertanyaan,tidak,train
+145,Bibi geus nyieun kopi keur Mamang?,Bibi parantos ngadamel kopi kanggo Mamang?,Bibi,pertanyaan,tidak,test
+146,Mamang keur gawé di kebon.,Mamang nuju damel di kebon.,Mamang,pernyataan,tidak,train
+147,Bibi sok meuli sayuran isuk-isuk.,Bibi sok mésér sayuran énjing-énjing.,Bibi,pernyataan,tidak,train
+148,Pa Lurah teu bisa datang sabab keur sakit.,Pa Lurah teu tiasa sumping margi nuju gering.,Pa Lurah,pernyataan,tidak,train
+149,Pa Guru can datang?,Pa Guru teu acan sumping?,Pa Guru,pertanyaan,tidak,train
+150,Bu Guru geus balik ka imah?,Bu Guru parantos wangsul ka bumi?,Bu Guru,pertanyaan,tidak,test
+151,"Bapa geus dahar, tuluy sare.","Bapa parantos tuang, teras kulem.",Bapa,pernyataan,tidak,train
+152,"Ibu arék nyieun kadaharan, tuluy dahar jeung Aki.","Ibu badé ngadamel kadaharan, teras tuang sareng Aki.",Ibu,pernyataan,tidak,train
+153,"Akang geus lila gawé di dieu, tapi can balik.","Akang parantos lami damel di dieu, nanging teu acan wangsul.",Akang,pernyataan,tidak,val
+154,"Teteh arék maca heula, sanggeus éta arék dahar.","Teteh badé maos heula, saparantos éta badé tuang.",Teteh,pernyataan,tidak,train
+155,Aki sok nginum téh sanggeus dahar.,Aki sok ngunjuk téh saparantos tuang.,Aki,pernyataan,tidak,test
+156,Nini sok sare sanggeus dahar.,Nini sok kulem saparantos tuang.,Nini,pernyataan,tidak,train
+157,Ibu teu hayang indit sabab geus peuting.,Ibu teu kersa angkat margi parantos wengi.,Ibu,pernyataan,tidak,train
+158,Bapa mah teu nyaho lamun Ibu datang.,Bapa mah teu terang upami Ibu sumping.,Bapa,pernyataan,tidak,train
+159,Akang mah can nyaho yén Teteh balik.,Akang mah teu acan terang yén Teteh wangsul.,Akang,pernyataan,tidak,train
+160,Mamang geus nyaho lamun imah Aki loba tamu?,Mamang parantos terang upami bumi Aki seueur tamu?,Mamang,pertanyaan,tidak,test
+161,Bapa kudu nginum obat heula.,Bapa kedah ngunjuk obat heula.,Bapa,perintah,tidak,train
+162,Ibu kudu sare awal peuting ieu.,Ibu kedah kulem awal wengi ieu.,Ibu,perintah,tidak,train
+163,Aki kudu dahar loba.,Aki kedah tuang seueur.,Aki,perintah,tidak,val
+164,Nini kudu nginum cai loba.,Nini kedah ngunjuk cai seueur.,Nini,perintah,tidak,train
+165,Akang ulah poho dahar.,Akang entong hilap tuang.,Akang,larangan,tidak,test
+166,Teteh ulah balik peuting teuing.,Teteh entong wangsul wengi teuing.,Teteh,larangan,tidak,train
+167,Bapa ulah gawé teuing lila.,Bapa entong damel teuing lami.,Bapa,larangan,tidak,train
+168,Ibu ulah nginum kopi loba teuing.,Ibu entong ngunjuk kopi seueur teuing.,Ibu,larangan,tidak,train
+169,Aki ulah indit jauh ti imah.,Aki entong angkat tebih ti bumi.,Aki,larangan,tidak,train
+170,"Nini ulah milu ka pasar, geus peuting.","Nini entong ngiring ka pasar, parantos wengi.",Nini,larangan,tidak,test
+171,Mamang ulah poho mawa duit.,Mamang entong hilap nyandak artos.,Mamang,larangan,tidak,train
+172,Bibi ulah salah meuli kadaharan.,Bibi entong lepat mésér kadaharan.,Bibi,larangan,tidak,train
+173,Bapa kudu nyaho jalan anu bener.,Bapa kedah terang jalan anu leres.,Bapa,perintah,tidak,val
+174,Ibu kudu cageur heula sanggeus éta gawé.,Ibu kedah damang heula saparantos éta damel.,Ibu,perintah,tidak,train
+175,"Teteh kudu nyieun tugas heula, tuluy sare.","Teteh kedah ngadamel tugas heula, teras kulem.",Teteh,perintah,tidak,test
+176,Akang kudu balik saméméh peuting.,Akang kedah wangsul saméméh wengi.,Akang,perintah,tidak,train
+177,Bapa kudu nyaho yén kuring teu bisa datang.,Bapa kedah terang yén abdi teu tiasa dugi.,Bapa,perintah,ya,train
+178,Ibu kudu nyaho kuring geus balik.,Ibu kedah terang abdi parantos uih.,Ibu,perintah,ya,train
+179,Pa Guru kudu nempo tugas kuring.,Pa Guru kedah ningali tugas abdi.,Pa Guru,perintah,ya,train
+180,Bu Guru kudu maca surat ti kuring.,Bu Guru kedah maos serat ti abdi.,Bu Guru,perintah,ya,test
+181,Pa Lurah kudu nyaho imah kuring jauh.,Pa Lurah kedah terang bumi abdi tebih.,Pa Lurah,perintah,ya,train
+182,"Aki kudu istirahat, ulah milu gawé.","Aki kedah istirahat, entong ngiring damel.",Aki,larangan,tidak,train
+183,"Nini kudu istirahat, ulah indit ka kebon.","Nini kedah istirahat, entong angkat ka kebon.",Nini,larangan,tidak,val
+184,Ibu ulah poho ngabéjaan Bapa.,Ibu entong hilap ngawartosan Bapa.,Ibu,larangan,tidak,train
+185,Teteh ulah poho ngirim surat ka Nini.,Teteh entong hilap ngintun serat ka Nini.,Teteh,larangan,tidak,test
+186,"Kuring arék dahar, Bapa geus dahar?","Abdi badé neda, Bapa parantos tuang?",Bapa,pertanyaan,ya,train
+187,"Kuring geus mandi, Ibu geus mandi?","Abdi parantos mandi, Ibu parantos siram?",Ibu,pertanyaan,ya,train
+188,"Kuring arék indit heula, Akang arék indit iraha?","Abdi badé angkat heula, Akang badé angkat iraha?",Akang,pertanyaan,ya,train
+189,"Kuring geus nepi, Teteh geus nepi?","Abdi parantos dugi, Teteh parantos dugi?",Teteh,pertanyaan,ya,train
+190,"Kuring hayang nanya, Bu Guru bisa ngabantuan?","Abdi hoyong naros, Bu Guru tiasa ngabantosan?",Bu Guru,pertanyaan,ya,test
+191,"Kuring teu nyaho, Pa Guru nyaho?","Abdi teu terang, Pa Guru terang?",Pa Guru,pertanyaan,ya,train
+192,"Kuring geus maca surat, Bapa geus maca?","Abdi parantos maos serat, Bapa parantos maos?",Bapa,pertanyaan,ya,train
+193,"Kuring arék meuli buku, Ibu hayang buku anyar?","Abdi badé mésér buku, Ibu kersa buku énggal?",Ibu,pertanyaan,ya,val
+194,"Kuring keur diuk, Bapa mah keur nangtung?","Abdi nuju calik, Bapa mah nuju ngadeg?",Bapa,pertanyaan,ya,train
+195,"Kuring teu bisa ngomong, Ibu bisa ngomong?","Abdi teu tiasa nyarios, Ibu tiasa nyarios?",Ibu,pertanyaan,ya,test
+196,"Kuring geus nulis surat, Akang geus nulis?","Abdi parantos nyerat serat, Akang parantos nyerat?",Akang,pertanyaan,ya,train
+197,"Kuring keur gawé, Mamang keur naon?","Abdi nuju damel, Mamang nuju naon?",Mamang,pertanyaan,ya,train
+198,"Kuring kudu indit, Aki hayang milu?","Abdi kedah angkat, Aki kersa ngiring?",Aki,pertanyaan,ya,train
+199,"Kuring geus lila ngadagoan, Pa Lurah arék datang iraha?","Abdi parantos lami ngantosan, Pa Lurah badé sumping iraha?",Pa Lurah,pertanyaan,ya,train
+200,"Kuring geus nyaho, Bapa geus nyaho?","Abdi parantos terang, Bapa parantos terang?",Bapa,pertanyaan,ya,test
+201,"Kuring geus nempo, Ibu geus nempo?","Abdi parantos ningali, Ibu parantos ningali?",Ibu,pertanyaan,ya,train
+202,"Kuring teu hayang dahar, Nini hayang dahar?","Abdi teu hoyong neda, Nini kersa tuang?",Nini,pertanyaan,ya,train
+203,"Kuring arék nginum cai, Aki hayang nginum téh?","Abdi badé nginum cai, Aki kersa ngunjuk téh?",Aki,pertanyaan,ya,val
+204,Kuring geus meuli baju keur Ibu.,Abdi parantos mésér raksukan kanggo Ibu.,Ibu,pernyataan,ya,train
+205,Kuring geus méré duit ka Bapa.,Abdi parantos nyanggakeun artos ka Bapa.,Bapa,pernyataan,ya,test
+206,Kuring arék méré kadaharan ka Nini.,Abdi badé nyanggakeun kadaharan ka Nini.,Nini,pernyataan,ya,train
+207,"Kuring teu bisa milu, Teteh bisa milu?","Abdi teu tiasa ngiring, Teteh tiasa ngiring?",Teteh,pertanyaan,ya,train
+208,"Kuring kudu balik, Bu Guru arék balik iraha?","Abdi kedah uih, Bu Guru badé wangsul iraha?",Bu Guru,pertanyaan,ya,train
+209,"Kuring nanya heula, Akang arék ka mana?","Abdi naros heula, Akang badé ka mana?",Akang,pertanyaan,ya,train
+210,"Kuring arék nyieun kopi, Mamang hayang kopi?","Abdi badé ngadamel kopi, Mamang kersa kopi?",Mamang,pertanyaan,ya,test
+211,"Kuring geus nepi ka sakola, Bu Guru geus datang?","Abdi parantos dugi ka sakola, Bu Guru parantos sumping?",Bu Guru,pertanyaan,ya,train
+212,"Kuring mah sok dahar saeutik, Bibi kumaha?","Abdi mah sok neda sakedik, Bibi kumaha?",Bibi,pertanyaan,ya,train
+213,"Kuring teu nyaho jalan, Pa Lurah nyaho?","Abdi teu terang jalan, Pa Lurah terang?",Pa Lurah,pertanyaan,ya,val
+214,"Kuring hayang ngabantuan, Ibu butuh naon?","Abdi hoyong ngabantosan, Ibu peryogi naon?",Ibu,pertanyaan,ya,train
+215,"Kuring geus ngabéjaan Bapa, Ibu can ngabéjaan?","Abdi parantos ngawartosan Bapa, Ibu teu acan ngawartosan?",Bapa,pertanyaan,ya,test
+216,Bapa geus bisa nyetir motor?,Bapa parantos tiasa nyetir motor?,Bapa,pertanyaan,tidak,train
+217,Ibu bisa ngomong basa Inggris?,Ibu tiasa nyarios basa Inggris?,Ibu,pertanyaan,tidak,train
+218,Akang bisa maca tulisan ieu?,Akang tiasa maos tulisan ieu?,Akang,pertanyaan,tidak,train
+219,Teteh teu bisa ngomong basa Jepang.,Teteh teu tiasa nyarios basa Jepang.,Teteh,pernyataan,tidak,train
+220,Aki geus teu bisa leumpang jauh.,Aki parantos teu tiasa leumpang tebih.,Aki,pernyataan,tidak,test
+221,Nini teu bisa maca tanpa kacamata.,Nini teu tiasa maos tanpa kacamata.,Nini,pernyataan,tidak,train
+222,Mamang bisa nyieun kursi?,Mamang tiasa ngadamel kursi?,Mamang,pertanyaan,tidak,train
+223,Bibi bisa nyieun kadaharan ngeunah.,Bibi tiasa ngadamel kadaharan raos.,Bibi,pernyataan,tidak,val
+224,Pa Guru ngajar basa Sunda di sakola.,Pa Guru ngawulang basa Sunda di sakola.,Pa Guru,pernyataan,tidak,train
+225,Bu Guru ngajar murid unggal isuk.,Bu Guru ngawulang murid unggal énjing.,Bu Guru,pernyataan,tidak,test
+226,Pa Lurah geus lila gawé di kantor desa?,Pa Lurah parantos lami damel di kantor désa?,Pa Lurah,pertanyaan,tidak,train
+227,Bapa keur nyieun kandang hayam.,Bapa nuju ngadamel kandang hayam.,Bapa,pernyataan,tidak,train
+228,Ibu keur nyieun kadaharan keur Aki.,Ibu nuju ngadamel kadaharan kanggo Aki.,Ibu,pernyataan,tidak,train
+229,Akang keur néangan gawé anyar.,Akang nuju milari damel énggal.,Akang,pernyataan,tidak,train
+230,Teteh geus boga gawé anyar?,Teteh parantos gaduh damel énggal?,Teteh,pertanyaan,tidak,test
+231,Aki boga kebon anu gedé.,Aki gaduh kebon anu ageung.,Aki,pernyataan,tidak,train
+232,Nini boga imah deukeut pasar.,Nini gaduh bumi caket pasar.,Nini,pernyataan,tidak,train
+233,Mamang boga duit loba?,Mamang gaduh artos seueur?,Mamang,pertanyaan,tidak,val
+234,Bibi geus boga anak?,Bibi parantos gaduh putra?,Bibi,pertanyaan,tidak,train
+235,Anak Aki geus gawé?,Putra Aki parantos damel?,Aki,pertanyaan,tidak,test
+236,Anak Nini keur sakola di Bandung.,Putra Nini nuju sakola di Bandung.,Nini,pernyataan,tidak,train
+237,Pamajikan Mamang keur sakit.,Garwa Mamang nuju gering.,Mamang,pernyataan,tidak,train
+238,Pamajikan Pa Lurah geus datang?,Garwa Pa Lurah parantos sumping?,Pa Lurah,pertanyaan,tidak,train
+239,Pamajikan Pa Guru keur gawé di pasar.,Garwa Pa Guru nuju damel di pasar.,Pa Guru,pernyataan,tidak,train
+240,Ibu nyaho ngaran guru anyar?,Ibu terang nami guru énggal?,Ibu,pertanyaan,tidak,test
+241,Bapa nyaho ngaran jalan ieu?,Bapa terang nami jalan ieu?,Bapa,pertanyaan,tidak,train
+242,Umur Aki geus sabaraha?,Yuswa Aki parantos sabaraha?,Aki,pertanyaan,tidak,train
+243,Umur Nini geus tujuh puluh.,Yuswa Nini parantos tujuh puluh.,Nini,pernyataan,tidak,val
+244,Ngaran Bapa saha?,Nami Bapa saha?,Bapa,pertanyaan,tidak,train
+245,Ngaran Ibu Siti.,Nami Ibu Siti.,Ibu,pernyataan,tidak,test
+246,Ngaran Bu Guru téh saha?,Nami Bu Guru téh saha?,Bu Guru,pertanyaan,tidak,train
+247,Bapa maca koran unggal isuk.,Bapa maos koran unggal énjing.,Bapa,pernyataan,tidak,train
+248,Ibu maca buku sanggeus dahar.,Ibu maos buku saparantos tuang.,Ibu,pernyataan,tidak,train
+249,Aki nulis surat keur Nini.,Aki nyerat serat kanggo Nini.,Aki,pernyataan,tidak,train
+250,Nini nulis ngaran Aki di buku.,Nini nyerat nami Aki di buku.,Nini,pernyataan,tidak,test
+251,Akang nempo Bapa di jalan.,Akang ningali Bapa di jalan.,Akang,pernyataan,tidak,train
+252,Teteh nempo Ibu di pasar.,Teteh ningali Ibu di pasar.,Teteh,pernyataan,tidak,train
+253,Mamang ngadéngé warta ti Pa Lurah.,Mamang miarsa warta ti Pa Lurah.,Mamang,pernyataan,tidak,val
+254,Bibi ngadéngé Ibu keur ngomong.,Bibi miarsa Ibu nuju nyarios.,Bibi,pernyataan,tidak,train
+255,Bapa geus ngadéngé lagu éta?,Bapa parantos miarsa lagu éta?,Bapa,pertanyaan,tidak,test
+256,Aki geus nempo pilem éta?,Aki parantos ningali pilem éta?,Aki,pertanyaan,tidak,train
+257,Nini keur dahar jeung Aki di dapur.,Nini nuju tuang sareng Aki di dapur.,Nini,pernyataan,tidak,train
+258,Ibu keur nginum téh jeung Bapa.,Ibu nuju ngunjuk téh sareng Bapa.,Ibu,pernyataan,tidak,train
+259,"Akang keur mandi, Ibu keur sare.","Akang nuju siram, Ibu nuju kulem.",Akang,pernyataan,tidak,train
+260,"Teteh keur hudang, Bapa keur dahar.","Teteh nuju gugah, Bapa nuju tuang.",Teteh,pernyataan,tidak,test
+261,Mamang arék dahar jeung Bibi.,Mamang badé tuang sareng Bibi.,Mamang,pernyataan,tidak,train
+262,Bibi arék nginum kopi jeung Mamang.,Bibi badé ngunjuk kopi sareng Mamang.,Bibi,pernyataan,tidak,train
+263,Pa Guru arék maca buku di perpustakaan.,Pa Guru badé maos buku di perpustakaan.,Pa Guru,pernyataan,tidak,val
+264,Bu Guru arék nulis surat ka murid.,Bu Guru badé nyerat serat ka murid.,Bu Guru,pernyataan,tidak,train
+265,Pa Lurah arék ngomong jeung warga.,Pa Lurah badé nyarios sareng warga.,Pa Lurah,pernyataan,tidak,test
+266,Bapa kamari datang ka imah Aki.,Bapa kamari sumping ka bumi Aki.,Bapa,pernyataan,tidak,train
+267,Ibu kamari balik ti pasar jam dua.,Ibu kamari wangsul ti pasar jam dua.,Ibu,pernyataan,tidak,train
+268,Akang kamari indit ka Bandung.,Akang kamari angkat ka Bandung.,Akang,pernyataan,tidak,train
+269,Teteh kamari gawé di kantor.,Teteh kamari damel di kantor.,Teteh,pernyataan,tidak,train
+270,Aki isukan arék balik ka lembur.,Aki énjing badé wangsul ka lembur.,Aki,pernyataan,tidak,test
+271,Nini isukan arék datang ka imah Ibu.,Nini énjing badé sumping ka bumi Ibu.,Nini,pernyataan,tidak,train
+272,Mamang tadi geus nempo Bapa?,Mamang tadi parantos ningali Bapa?,Mamang,pertanyaan,tidak,train
+273,Bibi tadi geus dahar?,Bibi tadi parantos tuang?,Bibi,pertanyaan,tidak,val
+274,Bapa geus lila teu datang ka dieu.,Bapa parantos lami teu sumping ka dieu.,Bapa,pernyataan,tidak,train
+275,Ibu geus lila teu nempo Nini.,Ibu parantos lami teu ningali Nini.,Ibu,pernyataan,tidak,test
+276,Akang geus lila teu balik ka imah.,Akang parantos lami teu wangsul ka bumi.,Akang,pernyataan,tidak,train
+277,Teteh can dahar?,Teteh teu acan tuang?,Teteh,pertanyaan,tidak,train
+278,Aki can sare?,Aki teu acan kulem?,Aki,pertanyaan,tidak,train
+279,Nini can hudang?,Nini teu acan gugah?,Nini,pertanyaan,tidak,train
+280,Mamang can balik ti kebon?,Mamang teu acan wangsul ti kebon?,Mamang,pertanyaan,tidak,test
+281,Bibi can datang ti pasar.,Bibi teu acan sumping ti pasar.,Bibi,pernyataan,tidak,train
+282,Pa Guru can nyaho kabar éta.,Pa Guru teu acan terang kabar éta.,Pa Guru,pernyataan,tidak,train
+283,Bapa hayang nyaho kabar Aki.,Bapa kersa terang kabar Aki.,Bapa,pernyataan,tidak,val
+284,Ibu hayang meuli baju keur Nini.,Ibu kersa mésér raksukan kanggo Nini.,Ibu,pernyataan,tidak,train
+285,Akang hayang maca koran ieu?,Akang kersa maos koran ieu?,Akang,pertanyaan,tidak,test
+286,Teteh hayang ka pasar jeung Ibu?,Teteh kersa ka pasar sareng Ibu?,Teteh,pertanyaan,tidak,train
+287,Aki hayang diuk di dieu?,Aki kersa linggih di dieu?,Aki,pertanyaan,tidak,train
+288,Nini hayang indit ka masjid?,Nini kersa angkat ka masjid?,Nini,pertanyaan,tidak,train
+289,Mamang hayang nginum cai?,Mamang kersa ngunjuk cai?,Mamang,pertanyaan,tidak,train
+290,Bibi hayang dahar jeung Mamang?,Bibi kersa tuang sareng Mamang?,Bibi,pertanyaan,tidak,test
+291,Pa Guru hayang nempo tugas ieu?,Pa Guru kersa ningali tugas ieu?,Pa Guru,pertanyaan,tidak,train
+292,Bu Guru hayang nanya?,Bu Guru kersa naros?,Bu Guru,pertanyaan,tidak,train
+293,Pa Lurah hayang ngomong jeung Bapa.,Pa Lurah kersa nyarios sareng Bapa.,Pa Lurah,pernyataan,tidak,val
+294,Bapa sok maca koran sanggeus dahar.,Bapa sok maos koran saparantos tuang.,Bapa,pernyataan,tidak,train
+295,Ibu sok nginum téh isuk-isuk.,Ibu sok ngunjuk téh énjing-énjing.,Ibu,pernyataan,tidak,test
+296,Aki sok sare awal.,Aki sok kulem awal.,Aki,pernyataan,tidak,train
+297,Nini sok hudang isuk-isuk.,Nini sok gugah énjing-énjing.,Nini,pernyataan,tidak,train
+298,Akang sok balik ti kantor jam genep.,Akang sok wangsul ti kantor jam genep.,Akang,pernyataan,tidak,train
+299,Teteh sok nyieun kadaharan keur Ibu.,Teteh sok ngadamel kadaharan kanggo Ibu.,Teteh,pernyataan,tidak,train
+300,Mamang sok milu ka pasar jeung Bibi.,Mamang sok ngiring ka pasar sareng Bibi.,Mamang,pernyataan,tidak,test
