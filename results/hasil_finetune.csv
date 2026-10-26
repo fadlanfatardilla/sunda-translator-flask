@@ -1,0 +1,9 @@
+set,sistem,n,chrF++,BLEU,exact_match_%
+test_baru (id>100),salin_sumber,40,36.43,13.1,0.0
+test_baru (id>100),fine-tune,40,94.55,91.8,80.0
+test_semua,salin_sumber,50,38.29,14.56,0.0
+test_semua,fine-tune,50,93.48,90.12,80.0
+test: ada kata baru,salin_sumber,13,47.6,24.63,0.0
+test: ada kata baru,fine-tune,13,86.69,80.09,61.5
+test: tanpa kata baru,salin_sumber,37,35.06,9.32,0.0
+test: tanpa kata baru,fine-tune,37,95.82,93.55,86.5
