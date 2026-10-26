@@ -1,0 +1,51 @@
+id,sumber_loma,target_lemes_batur,pred_model,ada_kata_baru
+7,Aki geus datang ti kampung?,Aki parantos sumping ti kampung?,Aki parantos sumping ti kampung?,True
+17,Bapa teu hayang dahar?,Bapa teu kersa tuang?,Bapa teu kersa tuang?,False
+27,"Lamun Bapa hayang, kuring arék nganteurkeun.","Upami Bapa kersa, abdi badé nganteurkeun.","Lami Bapa hoyong, abdi badé ngantosan.",True
+37,Bapa mah dahar téh sok saeutik.,Bapa mah tuang téh sok sakedik.,Bapa mah tuang téh sok sakedik.,False
+47,"Teteh bageur pisan, sok méré kuring kadaharan.","Teteh saé pisan, sok maparin abdi kadaharan.","Teteh wangsul pisan, sok ngadamel abdi kadaharan.",True
+55,Aki geus lila gawé di sawah?,Aki parantos lami damel di sawah?,Aki parantos lami damel di sawah?,True
+65,"Bapa kudu istirahat heula, ulah gawé teuing.","Bapa kedah istirahat heula, entong damel teuing.","Bapa kedah istirahat heula, entong damel teuing.",False
+73,"Kuring geus meuli buku, Bapa hayang maca?","Abdi parantos mésér buku, Bapa kersa maos?","Abdi parantos mésér buku, Bapa kersa maos?",False
+85,Teteh geus nyieun kadaharan keur Ibu?,Teteh parantos ngadamel kadaharan kanggo Ibu?,Teteh parantos ngadamel kadaharan kanggo Ibu?,False
+95,Akang sok balik ti kantor jam lima.,Akang sok wangsul ti kantor jam lima.,Akang sok wangsul ti kantor jam lima.,True
+105,Huntu Bapa kudu diubaran heula.,Waja Bapa kedah diubaran heula.,Huntu Bapa kedah diubaran heula.,True
+110,Ibu geus méré duit ka Akang?,Ibu parantos maparin artos ka Akang?,Ibu parantos mésér dugi ka Akang?,False
+115,Motor Akang anyar?,Motor Akang énggal?,Motor Akang saér?,False
+120,Masakan Nini alus pisan.,Masakan Nini saé pisan.,Mastaka Nini saé pisan.,True
+125,"Hawa dieu panas, Bapa hayang nginum cai tiis?","Hawa dieu panas, Bapa kersa ngunjuk cai tiis?","Hawa dieu panas, Bapa kersa ngunjuk cai tiis?",True
+130,Aki mah milu ka pasar.,Aki mah ngiring ka pasar.,Aki mah ngiring ka pasar.,False
+135,Poé ieu Bapa gawé?,Dinten ieu Bapa damel?,Dinten ieu Bapa damel?,False
+140,Tadi isuk Bapa geus dahar?,Tadi énjing Bapa parantos tuang?,Tadi énjing Bapa parantos tuang?,False
+145,Bibi geus nyieun kopi keur Mamang?,Bibi parantos ngadamel kopi kanggo Mamang?,Bibi parantos ngadamel kopi kanggo Mamang?,False
+150,Bu Guru geus balik ka imah?,Bu Guru parantos wangsul ka bumi?,Bu Guru parantos wangsul ka bumi?,False
+155,Aki sok nginum téh sanggeus dahar.,Aki sok ngunjuk téh saparantos tuang.,Aki sok ngunjuk téh saparantos tuang.,False
+160,Mamang geus nyaho lamun imah Aki loba tamu?,Mamang parantos terang upami bumi Aki seueur tamu?,Mamang parantos terang upami bumi Aki seueur tamu?,True
+165,Akang ulah poho dahar.,Akang entong hilap tuang.,Akang entong hilap nyandak.,False
+170,"Nini ulah milu ka pasar, geus peuting.","Nini entong ngiring ka pasar, parantos wengi.","Nini entong ngiring ka pasar, parantos wengi.",False
+175,"Teteh kudu nyieun tugas heula, tuluy sare.","Teteh kedah ngadamel tugas heula, teras kulem.","Teteh kedah ngadamel tugas heula, teras kulem.",False
+180,Bu Guru kudu maca surat ti kuring.,Bu Guru kedah maos serat ti abdi.,Bu Guru kedah maos serat ti abdi.,False
+185,Teteh ulah poho ngirim surat ka Nini.,Teteh entong hilap ngintun serat ka Nini.,Teteh entong hilap ngintun serat ka Nini.,False
+190,"Kuring hayang nanya, Bu Guru bisa ngabantuan?","Abdi hoyong naros, Bu Guru tiasa ngabantosan?","Abdi hoyong naros, Bu Guru tiasa ngabantosan?",False
+195,"Kuring teu bisa ngomong, Ibu bisa ngomong?","Abdi teu tiasa nyarios, Ibu tiasa nyarios?","Abdi teu tiasa nyarios, Ibu tiasa nyarios?",False
+200,"Kuring geus nyaho, Bapa geus nyaho?","Abdi parantos terang, Bapa parantos terang?","Abdi parantos terang, Bapa parantos terang?",False
+205,Kuring geus méré duit ka Bapa.,Abdi parantos nyanggakeun artos ka Bapa.,Abdi parantos mésér dugi ka Bapa.,False
+210,"Kuring arék nyieun kopi, Mamang hayang kopi?","Abdi badé ngadamel kopi, Mamang kersa kopi?","Abdi badé ngadamel kopi, Mamang kersa kopi?",False
+215,"Kuring geus ngabéjaan Bapa, Ibu can ngabéjaan?","Abdi parantos ngawartosan Bapa, Ibu teu acan ngawartosan?","Abdi parantos ngawartosan Bapa, Ibu teu acan ngawartosan?",False
+220,Aki geus teu bisa leumpang jauh.,Aki parantos teu tiasa leumpang tebih.,Aki parantos teu tiasa lepat tebih.,True
+225,Bu Guru ngajar murid unggal isuk.,Bu Guru ngawulang murid unggal énjing.,Bu Guru ngawulang murid unggal énjing.,False
+230,Teteh geus boga gawé anyar?,Teteh parantos gaduh damel énggal?,Teteh parantos gaduh damel énggal?,False
+235,Anak Aki geus gawé?,Putra Aki parantos damel?,Putra Aki parantos damel?,False
+240,Ibu nyaho ngaran guru anyar?,Ibu terang nami guru énggal?,Ibu terang nami parantos guru énggal?,False
+245,Ngaran Ibu Siti.,Nami Ibu Siti.,Nami Ibu Siti.,True
+250,Nini nulis ngaran Aki di buku.,Nini nyerat nami Aki di buku.,Nini nyerat nami Aki di buku.,False
+255,Bapa geus ngadéngé lagu éta?,Bapa parantos miarsa lagu éta?,Bapa parantos miarsa lagu éta?,True
+260,"Teteh keur hudang, Bapa keur dahar.","Teteh nuju gugah, Bapa nuju tuang.","Teteh nuju gugah, Bapa nuju tuang.",False
+265,Pa Lurah arék ngomong jeung warga.,Pa Lurah badé nyarios sareng warga.,Pa Lurah badé nyarios sareng warga.,True
+270,Aki isukan arék balik ka lembur.,Aki énjing badé wangsul ka lembur.,Aki énjing badé wangsul ka lembur.,False
+275,Ibu geus lila teu nempo Nini.,Ibu parantos lami teu ningali Nini.,Ibu parantos lami teu ningali Nini.,False
+280,Mamang can balik ti kebon?,Mamang teu acan wangsul ti kebon?,Mamang teu acan wangsul ti kebon?,False
+285,Akang hayang maca koran ieu?,Akang kersa maos koran ieu?,Akang kersa maos koran ieu?,False
+290,Bibi hayang dahar jeung Mamang?,Bibi kersa tuang sareng Mamang?,Bibi kersa tuang sareng Mamang?,False
+295,Ibu sok nginum téh isuk-isuk.,Ibu sok ngunjuk téh énjing-énjing.,Ibu sok ngunjuk téh énjing-énjing.,False
+300,Mamang sok milu ka pasar jeung Bibi.,Mamang sok ngiring ka pasar sareng Bibi.,Mamang sok ngiring ka pasar sareng Bibi.,False
