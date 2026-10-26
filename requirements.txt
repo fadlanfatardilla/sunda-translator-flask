@@ -1,0 +1,4 @@
+flask>=3.0
+torch
+transformers
+sentencepiece
