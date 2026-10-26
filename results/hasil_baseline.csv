@@ -1,0 +1,16 @@
+set,sistem,n,chrF++,BLEU,exact_match_%
+test_baru (id>100),salin_sumber,40,36.43,13.1,0.0
+test_baru (id>100),kamus_v1,40,89.67,81.78,57.5
+test_baru (id>100),kamus_v2,40,99.62,99.53,97.5
+val_baru (id>100),salin_sumber,20,42.76,25.76,0.0
+val_baru (id>100),kamus_v1,20,85.82,79.06,45.0
+val_baru (id>100),kamus_v2,20,98.11,97.75,95.0
+test_semua,salin_sumber,50,38.29,14.56,0.0
+test_semua,kamus_v1,50,90.99,84.04,62.0
+test_semua,kamus_v2,50,99.09,98.61,96.0
+test_baru | campuran_sorangan=tidak,kamus_v2,33,99.51,99.38,97.0
+test_baru | campuran_sorangan=ya,kamus_v2,7,100.0,100.0,100.0
+test_baru | tipe_kalimat=larangan,kamus_v2,3,100.0,100.0,100.0
+test_baru | tipe_kalimat=perintah,kamus_v2,3,95.19,94.4,66.7
+test_baru | tipe_kalimat=pernyataan,kamus_v2,14,100.0,100.0,100.0
+test_baru | tipe_kalimat=pertanyaan,kamus_v2,20,100.0,100.0,100.0
