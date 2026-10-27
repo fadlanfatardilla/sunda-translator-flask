@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="su">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TransAI · Penerjemah Basa Sunda</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="#">TransAI</a>
+    <nav><a href="#translate">Translate</a></nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Penerjemah Basa Sunda<br>Loma ke Lemes</h1>
+      <p class="sub">Ubah kalimat sehari-hari menjadi basa lemes keur batur.</p>
+    </section>
+
+    <section class="panels" id="translate">
+      <div class="card input">
+        <div class="card-head">
+          <label for="source">Asupkeun Basa Sunda Loma</label>
+          <span class="badge b1">LM</span>
+        </div>
+        <textarea id="source" maxlength="{{ max_chars }}" placeholder="Contoh: Bapa geus dahar?"></textarea>
+        <div class="row">
+          <button id="go" type="button">Translate</button>
+          <span class="count"><span id="n">0</span>/{{ max_chars }}</span>
+        </div>
+        <div class="examples" aria-label="Contoh kalimat">
+          <button type="button" class="chip">Aki geus datang ti kampung?</button>
+          <button type="button" class="chip">Teteh geus nyieun kadaharan keur Ibu?</button>
+          <button type="button" class="chip">Akang sok balik ti kantor jam lima.</button>
+          <button type="button" class="chip">Kuring geus meuli buku, Bapa hayang maca?</button>
+        </div>
+      </div>
+
+      <div class="card output">
+        <div class="card-head">
+          <span class="title">Basa Sunda Lemes keur Batur</span>
+          <span class="badge b2">LS</span>
+        </div>
+        <p id="result" class="result empty" aria-live="polite">Hasil terjemahan muncul di sini.</p>
+        <button id="copy" type="button" class="copy" hidden>Salin hasil</button>
+      </div>
+    </section>
+
+    <p class="note">Model eksperimental. Pada data uji, 80% kalimat tepat sama dengan jawaban acuan, sisanya bisa keliru atau mengubah kata yang seharusnya tetap.</p>
+  </main>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
